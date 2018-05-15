@@ -12,7 +12,7 @@ class hello : public PalaceGate::SafeMath{
 		void test();
 };		
 ```
-	在执行文件中实现say_hi方法：
+	在执行文件中实现test方法：
 ```cpp
 #include <hello.hpp>
 using namespace eosio;
